@@ -22,7 +22,7 @@
             "email": "code@ksn.in.th"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-main",
     "homepage": "https://www.ksn.in.th/",
     "funding": [
         {
