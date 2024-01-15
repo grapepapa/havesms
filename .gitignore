@@ -1,0 +1,4 @@
+vendor/*
+example/*
+composer.lock
+composer.json.bak
